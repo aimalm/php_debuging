@@ -13,3 +13,9 @@ function new_exercise() {
     echo $block;
 }
 new_exercise();
+
+// Exercise 
+$week = ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"];
+$monday = $week[0];
+
+echo $monday;
